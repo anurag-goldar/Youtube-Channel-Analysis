@@ -43,6 +43,7 @@ This project focuses on analyzing YouTube channel performance using Python, Goog
 ## 🗂️ File Structure
 - `YouTube_Channel_Analysis.ipynb` – Jupyter Notebook with the entire analysis
 - `requirements.txt` – Python libraries required to run the project
+- `akash_gupta_analysis.csv` - CSV file containing YouTube channel analysis data
 
 ## 📈 Analysis Insights
 - **Top-performing videos**: Identify which videos attract the most views and engagement.
