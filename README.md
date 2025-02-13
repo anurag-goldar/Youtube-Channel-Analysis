@@ -19,7 +19,7 @@ This project focuses on analyzing YouTube channel performance using Python, Goog
 ## 🚀 Installation & Setup
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/youtube-channel-analysis.git
+   git clone https://github.com/anurag-goldar/Youtube-Channel-Analysis.git
    cd youtube-channel-analysis
    ```
 
